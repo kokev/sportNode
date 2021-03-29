@@ -16,4 +16,15 @@ ________________
     http://localhost:8888/
 ```
 
-4. Open in the browser and paste the url and port.
+4. Open in the browser and paste the url and port for checking.
+
+___________
+# **ENDPOINTS**
+
+## List of tournaments
+
+    - GET /tournaments
+
+## List of tournament's matches
+
+    - GET /matches
